@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\New folder (5)\SqlTest\SqlTest\bin\Debug\SqlTest.exe.config
+C:\Users\Admin\Desktop\New folder (5)\SqlTest\SqlTest\bin\Debug\SqlTest.exe
+C:\Users\Admin\Desktop\New folder (5)\SqlTest\SqlTest\bin\Debug\SqlTest.pdb
+C:\Users\Admin\Desktop\New folder (5)\SqlTest\SqlTest\obj\Debug\BT2.6.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\New folder (5)\SqlTest\SqlTest\obj\Debug\BT2.6.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\New folder (5)\SqlTest\SqlTest\obj\Debug\BT2._6.Form1.resources
+C:\Users\Admin\Desktop\New folder (5)\SqlTest\SqlTest\obj\Debug\BT2._6.Properties.Resources.resources
+C:\Users\Admin\Desktop\New folder (5)\SqlTest\SqlTest\obj\Debug\BT2._6.ThemSV.resources
+C:\Users\Admin\Desktop\New folder (5)\SqlTest\SqlTest\obj\Debug\BT2._6.XoaSV.resources
+C:\Users\Admin\Desktop\New folder (5)\SqlTest\SqlTest\obj\Debug\BT2.6.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\New folder (5)\SqlTest\SqlTest\obj\Debug\BT2.6.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\New folder (5)\SqlTest\SqlTest\obj\Debug\SqlTest.exe
+C:\Users\Admin\Desktop\New folder (5)\SqlTest\SqlTest\obj\Debug\SqlTest.pdb

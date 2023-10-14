@@ -1,0 +1,26 @@
+D:\vs\SqlTest\SqlTest\bin\Debug\SqlTest.exe.config
+D:\vs\SqlTest\SqlTest\bin\Debug\SqlTest.exe
+D:\vs\SqlTest\SqlTest\bin\Debug\SqlTest.pdb
+D:\vs\SqlTest\SqlTest\obj\Debug\SqlTest.csproj.AssemblyReference.cache
+D:\vs\SqlTest\SqlTest\obj\Debug\SqlTest.csproj.SuggestedBindingRedirects.cache
+D:\vs\SqlTest\SqlTest\obj\Debug\SqlTest.Form1.resources
+D:\vs\SqlTest\SqlTest\obj\Debug\SqlTest.Properties.Resources.resources
+D:\vs\SqlTest\SqlTest\obj\Debug\SqlTest.csproj.GenerateResource.cache
+D:\vs\SqlTest\SqlTest\obj\Debug\SqlTest.csproj.CoreCompileInputs.cache
+D:\vs\SqlTest\SqlTest\obj\Debug\SqlTest.exe
+D:\vs\SqlTest\SqlTest\obj\Debug\SqlTest.pdb
+D:\vs\SqlTest\SqlTest\obj\Debug\SqlTest.ThemSV.resources
+D:\vs\SqlTest\SqlTest\obj\Debug\SqlTest.XoaSV.resources
+C:\Users\Admin\Desktop\New folder (5)\SqlTest\SqlTest\bin\Debug\SqlTest.exe.config
+C:\Users\Admin\Desktop\New folder (5)\SqlTest\SqlTest\bin\Debug\SqlTest.exe
+C:\Users\Admin\Desktop\New folder (5)\SqlTest\SqlTest\bin\Debug\SqlTest.pdb
+C:\Users\Admin\Desktop\New folder (5)\SqlTest\SqlTest\obj\Debug\SqlTest.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\New folder (5)\SqlTest\SqlTest\obj\Debug\SqlTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\New folder (5)\SqlTest\SqlTest\obj\Debug\SqlTest.Form1.resources
+C:\Users\Admin\Desktop\New folder (5)\SqlTest\SqlTest\obj\Debug\SqlTest.Properties.Resources.resources
+C:\Users\Admin\Desktop\New folder (5)\SqlTest\SqlTest\obj\Debug\SqlTest.ThemSV.resources
+C:\Users\Admin\Desktop\New folder (5)\SqlTest\SqlTest\obj\Debug\SqlTest.XoaSV.resources
+C:\Users\Admin\Desktop\New folder (5)\SqlTest\SqlTest\obj\Debug\SqlTest.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\New folder (5)\SqlTest\SqlTest\obj\Debug\SqlTest.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\New folder (5)\SqlTest\SqlTest\obj\Debug\SqlTest.exe
+C:\Users\Admin\Desktop\New folder (5)\SqlTest\SqlTest\obj\Debug\SqlTest.pdb
